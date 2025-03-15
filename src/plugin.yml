@@ -1,0 +1,8 @@
+name: EasyFreeze
+author: Dam
+version: 1.0
+main: fr.dam.main.Main
+commands:
+  freeze:
+    permission:
+      freeze.use
